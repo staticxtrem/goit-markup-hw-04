@@ -1,0 +1,60 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-Vector {
+  width: 0.625em;
+}
+
+.icon-sobre-activable {
+  width: 1.3330078125em;
+}
+
+.icon-grupo-5 {
+  width: 2.0888671875em;
+}
+
+.icon-grupo-4 {
+  width: 1.3408203125em;
+}
+
+.icon-grupo-3 {
+  width: 2.0234375em;
+}
+
+.icon-grupo-2 {
+  width: 1.0712890625em;
+}
+
+.icon-grupo-1 {
+  width: 0.7998046875em;
+}
+
+.icon-grupo {
+  width: 0.8916015625em;
+}
+
+.icon-Rectngulo-9-1 {
+  width: 2.0986328125em;
+}
+
+.icon-Rectngulo-3 {
+  width: 2.25em;
+}
+
+.icon-reloj-1 {
+  width: 0.974609375em;
+}
